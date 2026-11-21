@@ -1,6 +1,5 @@
-﻿bin/*.exe
-bin/*.dll
-bin/plugins/*.niyou
-*.log
+﻿# 忽略本地日志与临时文件
 *.user
 obj/
+pclplus-app.log
+*.log
