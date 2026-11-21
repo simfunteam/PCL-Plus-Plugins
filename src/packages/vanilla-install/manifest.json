@@ -1,0 +1,9 @@
+﻿{
+  "id": "vanilla-install",
+  "name": "原版游戏安装",
+  "version": "1.0.0",
+  "author": "PCL-Plus",
+  "description": "恢复 PCL 2.99 被移除的「原版游戏」下载入口，并解除下载列表的拦截。",
+  "patches": ["download"],
+  "hook": ""
+}

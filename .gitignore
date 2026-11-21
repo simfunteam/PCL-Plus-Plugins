@@ -1,0 +1,6 @@
+﻿bin/*.exe
+bin/*.dll
+bin/plugins/*.niyou
+*.log
+*.user
+obj/

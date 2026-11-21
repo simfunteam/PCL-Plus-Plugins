@@ -1,0 +1,9 @@
+﻿{
+  "id": "modpack-drop",
+  "name": "整合包拖拽安装",
+  "version": "1.0.0",
+  "author": "PCL-Plus",
+  "description": "接管文件拖拽，自己解析 .mrpack 并安装为 PCL 实例；同时解除整合包安装处的法律拦截。",
+  "patches": ["legal", "dispatch"],
+  "hook": "PCL2Plus.dll"
+}
