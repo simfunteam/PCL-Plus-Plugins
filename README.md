@@ -1,4 +1,4 @@
-# PCL-Plus Plugins
+﻿# PCL-Plus Plugins
 
 给 **Plain Craft Launcher 2（PCL2）** 用的插件体系：一个独立的插件管理器 + 一个 IL 注入器 + 自定义插件包格式（`.niyou`）。
 
