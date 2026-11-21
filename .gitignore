@@ -3,3 +3,5 @@
 obj/
 pclplus-app.log
 *.log
+bin/PCL/
+*.bak
